@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Alex Anderson
+-Profissão: Atendente de call center
+-Cidade: Brasilia
+-O que faz nas horas vaga: jogos online
+-Feedback sobre o curso Qualidade de Software: está bom, mas acho que a velociade de correção das tarefas poderiam ser melhoradas
+-Feedback sobre a plataforma de estudo da EBAC: o site é otimo, e bem estruturado. 
 
 Obrigado!!!
 
